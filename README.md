@@ -38,4 +38,4 @@ Bamazon is an Amazon-like storefront using MySQL to create the database of the p
     *  <img src="./images/bamazonManager3.gif">
 
 4. If a manager selects `Add New Product`, it should allow the manager to add a completely new product to the store.
-    *  <img src="./images/bamazonManager3.gif">
+    *  <img src="./images/bamazonManager4.gif">
